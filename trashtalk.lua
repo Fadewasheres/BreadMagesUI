@@ -49,7 +49,7 @@ local garbage = {
     "did you get worse?";
     "I'm surprised you haven't quit yet";
     "Man your aim is nothing.";
-    "Bros playing without breadmages"
+    "Bros playing without breadmages";
     "breadmages discoard: .gg/FvA8QRMGuP"
 
 
